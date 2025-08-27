@@ -1,0 +1,43 @@
+schema:
+  required_columns:
+    - ID
+    - Risk
+    - p
+    - I
+    - E
+    - X
+    - v
+    - R
+    - H
+    - D
+    - K
+    - C
+    - s
+    - Mitigation
+  dtypes:
+    ID: string
+    Risk: string
+    p: float
+    I: float
+    E: float
+    X: float
+    v: float
+    R: float
+    H: float
+    D: float
+    K: float
+    C: float
+    s: float
+    Mitigation: string
+vx_mapping:
+  p: p
+  I: I
+  E: E
+  X: X
+  v: v
+  R: R
+  H: H
+  D: D
+  K: K
+  C: C
+  s: s

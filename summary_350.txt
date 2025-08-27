@@ -1,0 +1,1 @@
+TUB (Total Utility Base) : registre des risques opérationnel avec CSV d’exemple, scripts robustes (pandas/openpyxl), calcul V(x), modèle Excel, tests pytest, CI (audit deps), docs RACI & checklists. Dépôt prêt pour validation et audit.

@@ -1,0 +1,13 @@
+name: Demande d'amélioration / Bug
+description: Signaler un problème ou proposer une amélioration
+title: "[TUB] "
+labels: ["tub", "triage"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Décrire le problème ou la proposition
+      placeholder: ...
+    validations:
+      required: true
